@@ -1,9 +1,9 @@
 
 {
-  "name": "AFK Bot",
+  "name": "bot",
   "bot-account": {
     "username": "ThatsAbigwind",
-    "password": "",
+    "password": "9866",
     "type": "offline"
   },
   "server": {
@@ -14,7 +14,7 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 0,
     "z": 0
   },
   "utils": {
